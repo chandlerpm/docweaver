@@ -33,9 +33,9 @@ Each directory models a real documentation system:
 
 Open the examples folder to see:
 
-- [`sample-readme.md`](/examples/sample-readme.md)
-- [`template-example.md`](/examples/template-example.md)
-- [`sample-config.yml`](/examples/sample-config.yml)
+- [`sample-readme.md`](../../examples/sample-readme.md)
+- [`template-example.md`](../../examples/template-example.md)
+- [`sample-config.yml`](../../examples/sample-config.yml)
 
 These show how **variables** and **templates** can be combined for documentation consistency.
 

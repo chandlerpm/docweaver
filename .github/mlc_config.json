@@ -1,0 +1,11 @@
+{
+  "ignorePatterns": [
+    { "pattern": "^https://img.shields.io/" },
+    { "pattern": "^https://github.com/.+?/badge.svg" },
+    { "pattern": "^https://github.com/chandlerpm/docweaver/actions" }
+  ],
+  "timeout": "25s",
+  "retryOn429": true,
+  "retryCount": 3,
+  "aliveStatusCodes": [200, 206, 403]
+}
