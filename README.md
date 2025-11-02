@@ -1,8 +1,8 @@
 # 🧶 DocWeaver  
 *A flexible documentation-template system for small teams and solo developers.*
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Docs](https://img.shields.io/badge/docs-complete-blue)
+[![Docs Quality Check](https://github.com/chandlerpm/docweaver/actions/workflows/docs-lint.yml/badge.svg)](https://github.com/chandlerpm/docweaver/actions/workflows/docs-lint.yml)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/chandlerpm/docweaver?color=brightgreen)](https://github.com/chandlerpm/docweaver/releases)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Status](https://img.shields.io/badge/status-stable-lightgrey)
 
@@ -85,10 +85,10 @@ flowchart LR
 ---
 
 ## 💡 Example Templates
-See the [`examples/`](examples/) folder for:
-- `sample-readme.md` – a generated README output  
-- `template-example.md` – raw vs. woven Markdown  
-- `sample-config.yml` – example project variables
+See the examples below:
+- [`sample-readme.md`](examples/sample-readme.md)
+- [`template-example.md`](examples/template-example.md)
+- [`sample-config.yml`](examples/sample-config.yml)
 
 ---
 

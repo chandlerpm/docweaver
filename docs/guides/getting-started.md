@@ -31,10 +31,11 @@ Each directory models a real documentation system:
 
 ## ⚙️ 2. Explore the Example Templates
 
-Open the [`examples/`](../../examples/) folder to see:
-- `sample-readme.md` – the woven output example  
-- `template-example.md` – the original Markdown template  
-- `sample-config.yml` – the YAML configuration controlling placeholders  
+Open the examples folder to see:
+
+- [`sample-readme.md`](/examples/sample-readme.md)
+- [`template-example.md`](/examples/template-example.md)
+- [`sample-config.yml`](/examples/sample-config.yml)
 
 These show how **variables** and **templates** can be combined for documentation consistency.
 

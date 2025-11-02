@@ -29,7 +29,7 @@ This section provides the context that connects every other part of the document
 Once you’ve reviewed this overview:
 1. Explore the [Getting Started Guide](../guides/getting-started.md)  
 2. Learn how to [maintain style and consistency](../guides/style-guide.md)  
-3. See how DocWeaver applies [CI linting and validation](../../.github/workflows/docs-lint.yml) for automated quality checks
+3. See how DocWeaver applies [CI linting and validation](../../.github/) for automated quality checks
 
 ---
 
