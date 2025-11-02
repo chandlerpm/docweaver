@@ -52,13 +52,21 @@ Edit `config.yml` to update variables such as project name, author, and version.
 ---
 
 ## 📚 Documentation
+
 | Section | Description |
 |----------|-------------|
-| [Overview](docs/overview/what-is-docweaver.md) | Conceptual intro and architecture |
+| [Overview](docs/overview/what-is-docweaver.md) | Conceptual intro and system purpose |
+| [Key Concepts](docs/overview/key-concepts.md) | Core ideas and architecture |
 | [Guides](docs/guides/getting-started.md) | Tutorials and workflows |
+| [Writing with Templates](docs/guides/writing-with-templates.md) | Template authoring workflow |
+| [Publishing](docs/guides/publishing.md) | Deploying and sharing docs |
 | [Reference](docs/reference/config-file.md) | YAML and CLI syntax |
-| [Troubleshooting](docs/troubleshooting/faq.md) | FAQs and error resolution |
+| [Template Variables](docs/reference/template-variables.md) | Variable definition and substitution |
+| [Style Guide](docs/style-guide.md) | Standards for writing and formatting |
+| [Troubleshooting](docs/troubleshooting/common-errors.md) | Common issues and resolutions |
 | [Contributing](docs/contributing/content-standards.md) | Content standards and PR workflow |
+| [Branching & Reviews](docs/contributing/branching-and-reviews.md) | Version control and collaboration |
+| [Changelog Guidelines](docs/contributing/changelog-guidelines.md) | Documentation change tracking |
 
 ---
 

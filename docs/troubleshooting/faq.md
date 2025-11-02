@@ -14,3 +14,7 @@ Yes. All materials are licensed under MIT; attribution is appreciated.
 
 ## 🔒 Why is there no executable code?
 DocWeaver focuses on documentation architecture and process, not a functioning parser.
+
+---
+
+_See also: [Common Errors](common-errors.md)_

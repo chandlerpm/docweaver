@@ -24,3 +24,8 @@ profiles:
 - `profiles.*` — nested objects for custom audiences  
 
 > **Tip:** Keep keys lowercase with hyphens or underscores for readability.
+
+---
+
+## Related
+- [Template Variables](template-variables.md) — how placeholders are defined and substituted
