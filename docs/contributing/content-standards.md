@@ -4,6 +4,12 @@ DocWeaver maintains clear, consistent formatting to model professional documenta
 
 ---
 
+> Related:
+> - [Style Guide](../style-guide.md) — editorial, structural, and formatting rules
+> - [Branching and Reviews](branching-and-reviews.md) — PR flow, commit style, and merge policy
+
+---
+
 ## 🧱 Structure
 | Element | Rule |
 |----------|------|

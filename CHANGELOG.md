@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.1.0] – 2025-11-02
+### Added
+- Guides: `publishing.md`, `writing-with-templates.md`
+- Overview: `key-concepts.md`
+- Reference: `template-variables.md`
+- Troubleshooting: `common-errors.md`
+- Docs-wide: `style-guide.md`
+### Updated
+- README: expanded Documentation table
+- Cross-links added between overview, reference, troubleshooting, contributing sections
+
+---
+
 ## [0.2.0] – 2025-11-02
 ### Added
 - Badges and Mermaid workflow diagram to README  
