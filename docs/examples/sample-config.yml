@@ -1,0 +1,6 @@
+project_name: "DocWeaver Demo"
+version: "0.1.0"
+author: "Julie Chandler"
+links:
+  homepage: "https://github.com/<yourusername>/DocWeaver"
+  docs: "docs/index.md"
