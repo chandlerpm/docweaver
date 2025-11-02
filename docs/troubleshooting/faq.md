@@ -1,10 +1,16 @@
-# FAQ
+# FAQ – Troubleshooting DocWeaver
 
-**Q: Why don’t commands run on my machine?**  
-A: DocWeaver is a portfolio project; commands are illustrative only.
+## ⚙️ Why won’t my Mermaid diagrams render on GitHub?
+Make sure you’ve used three backticks (```) with `mermaid` on the **same line**, and no extra fences around it.
 
-**Q: Do I need Python?**  
-A: No runtime is required to read or use the templates manually.
+## 🧱 My `config.yml` variables aren’t resolving.
+DocWeaver is a *conceptual* example project—variable resolution is shown for structure only, not executed.
 
-**Q: Can I use these templates in my project?**  
-A: Yes. MIT-licensed—see the root `LICENSE`.
+## 🧩 Why are some badges static?
+Badges are decorative placeholders. In a production version, they would be connected to GitHub Actions workflows.
+
+## 🧭 Can I reuse these templates in my own repo?
+Yes. All materials are licensed under MIT; attribution is appreciated.
+
+## 🔒 Why is there no executable code?
+DocWeaver focuses on documentation architecture and process, not a functioning parser.
