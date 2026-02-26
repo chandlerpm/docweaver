@@ -120,7 +120,7 @@ See the [CHANGELOG](CHANGELOG.md) for release notes.
 
 ## 🧾 About This Project
 
-**DocWeaver** is a fictional yet fully realized documentation system created by **Julie Chandler** as part of a professional technical writing portfolio.  
+**DocWeaver** is a portfolio project created by **Julie Chandler** as part of a professional technical writing portfolio.  
 It demonstrates best practices in:
 - Information architecture  
 - Technical documentation design  
