@@ -135,4 +135,4 @@ The project is intentionally lightweight, focusing on **clarity, structure, and 
 
 ## 📄 License
 Licensed under the [MIT License](LICENSE).  
-© 2025 DocWeaver Project – Created by Julie Chandler
+© 2026 DocWeaver Project – Created by Julie Chandler
